@@ -1,6 +1,6 @@
 # Helios URP Forwarder
 
-Scriptable Renderer that forwards render data to Helios
+Scriptable Renderer that forwards render data to [Helios](https://assetstore.unity.com/packages/tools/camera/helios-63643), the 360 video capturer for Unity
 
 1. Make `Helios::OnRenderImage` in **Helios.cs** `public`
 
